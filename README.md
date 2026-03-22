@@ -234,32 +234,26 @@ Git & DevOps     ████████████████░░░░  A
 
 <br/>
 
-## 🏆 &nbsp; GitHub Trophies
+## 🏆 &nbsp; Achievements
 
 <p align="center">
-	<img width="90%"
-		src="https://github-profile-trophy.vercel.app/?username=Ramyprojs&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang&v=1"
-	/>
+	<img src="https://img.shields.io/github/followers/Ramyprojs?style=for-the-badge&color=E50000&labelColor=0a0a0a&logo=github&label=GitHub+Followers"/>
+	&nbsp;
+	<img src="https://img.shields.io/badge/Contributions-125+-E50000?style=for-the-badge&labelColor=0a0a0a&logo=github"/>
+	&nbsp;
+	<img src="https://img.shields.io/badge/Open+Source-Active-E50000?style=for-the-badge&labelColor=0a0a0a"/>
 </p>
 
 ---
 
 <br/>
 
-## 🐍 &nbsp; Contribution Snake
+## 📈 &nbsp; Activity
 
 <p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)"
-			srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake-dark.svg?v=1"
-		/>
-		<source media="(prefers-color-scheme: light)"
-			srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake.svg?v=1"
-		/>
-		<img alt="github contribution grid snake animation"
-			src="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake.svg?v=1"
-		/>
-	</picture>
+	<img width="95%"
+		src="https://github-readme-activity-graph.vercel.app/graph?username=Ramyprojs&bg_color=0a0a0a&color=E50000&line=E50000&point=ffffff&area=true&area_color=E50000&hide_border=false&radius=10&cache_seconds=3600"
+	/>
 </p>
 
 ---
