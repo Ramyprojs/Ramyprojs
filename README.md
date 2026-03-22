@@ -151,11 +151,11 @@
 
 <p align="center">
 	<img height="180em"
-		src="https://github-readme-stats.vercel.app/api?username=Ramyprojs&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=E50000&icon_color=E50000&text_color=ffffff&border_color=E50000&border_radius=10&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=86400"
+		src="https://github-readme-stats.vercel.app/api?username=Ramyprojs&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=E50000&icon_color=E50000&text_color=ffffff&border_color=E50000&border_radius=10&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=3600"
 	/>
 	&nbsp;&nbsp;
 	<img height="180em"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramyprojs&layout=compact&theme=dark&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&border_color=E50000&border_radius=10&langs_count=8&hide_border=false&cache_seconds=86400"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramyprojs&layout=compact&theme=dark&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&border_color=E50000&border_radius=10&langs_count=8&hide_border=false&cache_seconds=3600"
 	/>
 </p>
 
@@ -185,31 +185,31 @@
 
 <p align="center">
 	<a href="https://github.com/Ramyprojs/hospital-management-system">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=hospital-management-system&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=86400"/>
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=hospital-management-system&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
 	</a>
 	&nbsp;
 	<a href="https://github.com/Ramyprojs/C-Maze-Generation-and-Solving-Algorithm">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=C-Maze-Generation-and-Solving-Algorithm&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=86400"/>
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=C-Maze-Generation-and-Solving-Algorithm&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
 	</a>
 </p>
 
 <p align="center">
 	<a href="https://github.com/Ramyprojs/resume-reviewer-app">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=resume-reviewer-app&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=86400"/>
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=resume-reviewer-app&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
 	</a>
 	&nbsp;
 	<a href="https://github.com/Ramyprojs/oaqjp-final-project-emb-ai">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=oaqjp-final-project-emb-ai&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=86400"/>
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=oaqjp-final-project-emb-ai&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
 	</a>
 </p>
 
 <p align="center">
 	<a href="https://github.com/Ramyprojs/PIC16F877A-PONG-Console">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=PIC16F877A-PONG-Console&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=86400"/>
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=PIC16F877A-PONG-Console&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
 	</a>
 	&nbsp;
 	<a href="https://github.com/Ramyprojs/Folium">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=Folium&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=86400"/>
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=Folium&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
 	</a>
 </p>
 
@@ -238,7 +238,7 @@ Git & DevOps     ████████████████░░░░  A
 
 <p align="center">
 	<img width="90%"
-		src="https://github-profile-trophy.vercel.app/?username=Ramyprojs&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang"
+		src="https://github-profile-trophy.vercel.app/?username=Ramyprojs&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang&v=1"
 	/>
 </p>
 
@@ -251,13 +251,13 @@ Git & DevOps     ████████████████░░░░  A
 <p align="center">
 	<picture>
 		<source media="(prefers-color-scheme: dark)"
-			srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake-dark.svg"
+			srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake-dark.svg?v=1"
 		/>
 		<source media="(prefers-color-scheme: light)"
-			srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake.svg"
+			srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake.svg?v=1"
 		/>
 		<img alt="github contribution grid snake animation"
-			src="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake.svg"
+			src="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake.svg?v=1"
 		/>
 	</picture>
 </p>
