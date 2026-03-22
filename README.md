@@ -1,258 +1,305 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4757&height=250&section=header&text=Ramy%20Abdelmalak&fontSize=80&fontColor=FFFFFF&animation=fadeIn&reversal=false&desc=Software%20Engineer%20%7C%20Cairo,%20Egypt&descSize=22" width="100%"/>
-</div>
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ramy%20Abdelmalak&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cairo%2C%20Egypt&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+</p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=FF4757&center=true&vCenter=true&repeat=true&width=700&height=90&lines=🔴+C%2B%2B+%26+Embedded+Systems+Architect;⚙️+Algorithm+%26+Data+Structure+Master;🤖+Building+AI-Powered+Solutions;☕+Turning+Coffee+Into+Production+Code;🚀+From+Microcontrollers+to+Cloud" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=E50000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=C%2B%2B+%26+TypeScript+Developer;Systems+Thinker.+Product+Builder.;Writing+code+that+actually+works.;Based+in+Cairo+%F0%9F%87%AA%F0%9F%87%AC;Open+to+opportunities." alt="Typing SVG" />
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://ramyprojs.github.io">
+		<img src="https://img.shields.io/badge/Portfolio-ramyprojs.github.io-E50000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a"/>
+	</a>
+	&nbsp;
+	<a href="https://www.linkedin.com/in/ramy-abdelmalak-aa2507177/">
+		<img src="https://img.shields.io/badge/LinkedIn-Ramy_Abdelmalak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
+	</a>
+	&nbsp;
+	<a href="mailto:ramy.emad2000@gmail.com">
+		<img src="https://img.shields.io/badge/Email-ramy.emad2000@gmail.com-E50000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/>
+	</a>
+	&nbsp;
+	<a href="https://github.com/Ramyprojs">
+		<img src="https://img.shields.io/badge/GitHub-Ramyprojs-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
+	</a>
+</p>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=Ramyprojs&style=for-the-badge&color=E50000&label=PROFILE+VIEWS&labelColor=0a0a0a"/>
+	&nbsp;
+	<img src="https://img.shields.io/github/followers/Ramyprojs?style=for-the-badge&color=E50000&labelColor=0a0a0a&logo=github&label=FOLLOWERS"/>
+</p>
 
 ---
 
-<div align="center">
+<br/>
 
-## 👾 About Me
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+## 👾 &nbsp; About Me
 
 ```
-⚡ Cairo-based full-stack engineer obsessed with building things that scale
-🎯 Superpowers: C++, embedded systems, algorithm design, AI integration
-💻 Journey: PIC microcontrollers → embedded C → full-stack TypeScript → AI/ML
-🏗️ Philosophy: Fast code, clean architecture, honest solutions
-🌟 Currently: Building production systems and learning quantum computing
+> Software engineer. Cairo, Egypt.
+> C++ and TypeScript are my daily tools.
+> I build things that hold up.
 ```
 
-**I bridge the gap between hardware and cloud — from 8-bit controllers to modern web infrastructure.**
+- 🔭 &nbsp; Working on **full-stack and AI-integrated projects**
+- 🌱 &nbsp; Deepening: **system design, TypeScript, algorithms**
+- ⚡ &nbsp; Background in **embedded systems** - sharpens how I think
+- 🎯 &nbsp; Goal: **write code that is fast, clean, and honest**
+- 💬 &nbsp; Ask me about: **C++, TypeScript, Flask, data structures**
+- 📫 &nbsp; Reach me: **ramy.emad2000@gmail.com**
+- 📱 &nbsp; Phone: **+201207223803**
+- 🌐 &nbsp; Portfolio: **[ramyprojs.github.io](https://ramyprojs.github.io)**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramyprojs&style=flat-square&color=FF4757&label=PROFILE+VIEWS" alt="Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Ramyprojs?style=flat-square&color=FF4757&labelColor=0a0a0a&logo=github&label=FOLLOWERS" alt="Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-🚀%20Building-FF4757?style=flat-square" alt="Status"/>
-</div>
+</td>
+<td width="45%" align="center" valign="top">
 
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
 
----
-💻 Languages & Frameworks
-<div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-Expert-FF4757?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-FF6B6B?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Python-Proficient-FF8A80?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/C-Systems-FFAB91?style=for-the-badge&logo=c&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/JavaScript-Fluent-FFA5A5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0a"/>
-  <br/>
-  <img src="https://img.shields.io/badge/React-Experienced-FF4444?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Node.js-Proficient-FF5757?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Express-Backend-FF6B6B?style=for-the-badge&logo=express&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Flask-Web-FF8080?style=for-the-badge&logo=flask&logoColor=white&labelColor=0a0a0a"/>
-</div>
-
-### ⚙️ Tools & DevOps
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/VS+Code-FF4757?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Linux-FF6B6B?style=for-the-badge&logo=linux&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Docker-FF8A80?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a"/>
-  <br/>
-  <img src="https://img.shields.io/badge/PlatformIO-FF4757?style=for-the-badge&logo=platformio&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Arduino-FF6B6B?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Vercel-FF8A80?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"/>
-</div>
-
-### 🚀 Specializations
-<div align="center">
-  <img src="https://img.shields.io/badge/🔧+Embedded+Systems-Microcontroller+Expert-FF4757?style=for-the-badge&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/📊+Algorithms+%26+DS-Advanced+Structures-FF6B6B?style=for-the-badge&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/🤖+AI%2FML+NLP-LLM+Integration-FF8A80?style=for-the-badge&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/🏗️+OOP+%26+STL-Design+Patterns-FFAB91ers-FF006E?style=for-the-badge&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/OOP+%26+STL-Advanced-00B4D8?style=for-the-badge&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Algorithms+%26+DS-Core+Strength-9D4EDD?style=for-the-baradical&hide_border=true&cache_seconds=0&include_all_commits=true&count_private=true&rank_icon=percentile" width="49%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Ramyprojs&theme=radical&hide_border=true&cache=0" width="49%" alt="Streak Stats"/>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
----
+<br/>
 
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-| 🎯 Metric | 📊 Progress |
-|:-:|:-:|
-| **Total Commits** | ![Commits Badge](https://img.shields.io/badge/125+-FF4757?style=for-the-badge&logo=github) |
-| **Repositories** | ![Repos Badge](https://img.shields.io/badge/20+-FF6B6B?style=for-the-badge&logo=github) |
-| **Pull Requests** | ![PRs Badge](https://img.shields.io/badge/15+-FF8A80?style=for-the-badge&logo=github) |
-| **Contributions** | ![Contributions Badge](https://img.shields.io/badge/200+%20this%20year-FFAB91?style=for-the-badge&logo=github) |
-
-</div>
-
-<div align="center">
-
-### 🎓 Major Achievements
-
-- ⭐ **Pull Shark** — Active open-source contributor
-- 🏅 **GitHub Pro** — All premium features unlocked
-- 🔴 **Red Streak** — Consistent daily contributions
-- 🚀 **Tech Stack Master** — Proficient in 8+ languages
-- 🤖 **AI Pioneer** — IBM Watson NLP & LLM integration
-- ⚙️ **System Designer** Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<details open>
-<summary><strong>⚙️ How to set up the contribution snake animation</strong></summary>
-
-This snake animation is auto-generated daily by a GitHub Action. Here's how to set it up:
-
-**Step 1:** Create the workflow file at `.github/workflows/snake.yml` 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ramyprojs&theme=tokyonight&no-frame=true&margin-w=10&column=7&cache_seconds=0" width="100%" alt="Trophies"/>
-</div>
+## 🛠️ &nbsp; Tech Stack
 
 ---
 
-## 🌐 Top Languages
+**Languages**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramyprojs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=0" width="100%" alt="Top Languages"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-radical&hide_border=true&cache_seconds=0" width="48%" alt="Hospital Management System"/>
-  </a>
-  <a href="https://github.com/Ramyprojs/C-Maze-Generation-and-Solving-Algorithm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=C-Maze-Generation-and-Solving-Algorithm&theme=radical&hide_border=true&cache_seconds=0" width="48%" alt="Maze Generation & Solving"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Ramyprojs/PIC16F877A-PONG-Console">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=PIC16F877A-PONG-Console&theme=radical&hide_border=true&cache_seconds=0" width="48%" alt="PIC16F877A PONG Console"/>
-  </a>
-  <a href="https://github.com/Ramyprojs/resume-reviewer-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=resume-reviewer-app&theme=radical
-
-**Step 1:** Create the workflow file at `.github/workflows/snake.yml` with the content provided below.
-
-**Step 2:** Go to your repository **Settings → Actions → General** and ensure:
-- "Read and write permissions" is enabled for GitHub Actions
-
-**Step 3:** The action will run automatically every day and push the SVG to the `output` branch.
-
-The snake will visualize your GitHub contributions graph and update automatically!
-
-</details>
+<p>
+	<img src="https://img.shields.io/badge/C++-Primary-E50000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/TypeScript-Primary-E50000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/C-Systems-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/SQL-Data-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0a0a"/>
+</p>
 
 ---
 
----
+**Web & Backend**
 
-## 💬 Quick Stats
-
-<div align="center">
-
-| Metric | Value |
-|:-------:|:------:|
-| 🔴 **Active Languages** | 6+ |
-| 📚 **Public Repositories** | 20+ |
-| 🌟 **Total Stars** | 150+ |
-| 💾 **Lines of Code** | 50K+ |
-| ⏱️ **Development Hours** | 1000+ |
-
-</div>
+<p>
+	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0a0a"/>
+</p>
 
 ---
 
-## 🎯 Current Projects
+**Embedded & Systems**
 
-<div align="center">
-
-🔴 **Working On:**
-- Advanced embedded systems with IoT
-- AI-powered full-stack applications
-- Open-source contributions
-- System design & architecture patterns
-
-🎓 **Learning:**
-- Advanced machine learning algorithms
-- Kubernetes & cloud infrastructure
-- Rust systems programming
-- Quantum computing fundamentals
-
-</div>
+<p>
+	<img src="https://img.shields.io/badge/PIC16F877A-Microcontroller-E50000?style=for-the-badge&logo=hackster&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/Assembly-Low_Level-555555?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/UART_SPI_I2C-Protocols-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/Embedded_C-Systems-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=0a0a0a"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+**AI & Data**
 
-<div align="center">
-  <a href="https://github.com/Ramyprojs">
-    <img src="https://img.shields.io/badge/🔗+GitHub-Ramyprojs-FF4757?style=for-the-badge&labelColor=0a0a0a"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ramy-abdelmalak/">
-    <img src="https://img.shields.io/badge/🔗+LinkedIn-Ramy-FF6B6B?style=for-the-badge&labelColor=0a0a0a"/>
-  </a>
-  <a href="mailto:ramy.emad2000@gmail.com">
-    <img src="https://img.shields.io/badge/✉️+Email-Say%20Hello-FF8A80?style=for-the-badge&labelColor=0a0a0a"/>
-  </a>
-  <a href="https://ramyprojs.github.io">
-    <img src="https://img.shields.io/badge/🌐+Portfolio-Visit%20Site-FFAB91?style=for-the-badge&labelColor=0a0a0a"/>
-  </a>
-</div>
-
-<div align="center">
-  <h3>⭐ If you find my work valuable, please star my repos! It truly motivates me to create more amazing projects.</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Status-🔴%20Actively%20Coding-FF4757?style=flat-square&logo=github" alt="Status"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Looking%20For-Collaborators%20%26%20Opportunities-FF6B6B?style=flat-square" alt="Collaboration"/>
-  </p>
-</div>
+<p>
+	<img src="https://img.shields.io/badge/IBM_Watson_NLP-BE95FF?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/NLP-Natural_Language-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/LLM_Integration-AI_Apps-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a"/>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4757&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20%F0%9F%9A%80&fontSize=30&fontColor=FFFFFF" width="100%"/>
-</div>
+**Tools & DevOps**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Live%20Updates-Auto%20Refreshing%20Every%20Hour-FF4757?style=flat-square&logo=github"/>
-  <br/>
-  <sub>📍 Cairo, Egypt | 🌍 Open for Remote | 💼 Full-Time / Freelance</sub
-    <img src="https://img.shields.io/badge/GitHub-Ramyprojs-white?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ramy-abdelmalak/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
-  </a>
-  <a href="mailto:ramy.emad2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/>
-  </a>
-</div>
-
-<div align="center">
-  <p>⭐ If you find my repositories useful, please star them! It means a lot.</p>
-</div>
+<p>
+	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"/>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
-</div>
+**CS Fundamentals**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-Auto%20Refreshing-00B4D8?style=flat-square&logo=github"/>
-</div>
+<p>
+	<img src="https://img.shields.io/badge/Data_Structures-Core-E50000?style=for-the-badge&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/Algorithms-Core-E50000?style=for-the-badge&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/OOP-Design-555555?style=for-the-badge&logoColor=white&labelColor=0a0a0a"/>
+	<img src="https://img.shields.io/badge/STL-C++_Standard-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0a0a0a"/>
+</p>
+
+---
+
+<br/>
+
+## 📊 &nbsp; GitHub Stats
+
+<p align="center">
+	<img height="180em"
+		src="https://github-readme-stats.vercel.app/api?username=Ramyprojs&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=E50000&icon_color=E50000&text_color=ffffff&border_color=E50000&border_radius=10&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=3600"
+	/>
+	&nbsp;&nbsp;
+	<img height="180em"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramyprojs&layout=compact&theme=dark&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&border_color=E50000&border_radius=10&langs_count=8&hide_border=false&cache_seconds=3600"
+	/>
+</p>
+
+<p align="center">
+	<img width="70%"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=Ramyprojs&theme=dark&background=0a0a0a&ring=E50000&fire=FF4444&currStreakLabel=E50000&sideLabels=ffffff&dates=999999&border=E50000&border_radius=10"
+	/>
+</p>
+
+---
+
+<br/>
+
+## 📈 &nbsp; Contribution Activity
+
+<p align="center">
+	<img width="95%"
+		src="https://github-readme-activity-graph.vercel.app/graph?username=Ramyprojs&bg_color=0a0a0a&color=E50000&line=E50000&point=ffffff&area=true&area_color=E50000&hide_border=false&radius=10"
+	/>
+</p>
+
+---
+
+<br/>
+
+## 🗂️ &nbsp; Featured Projects
+
+<p align="center">
+	<a href="https://github.com/Ramyprojs/hospital-management-system">
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=hospital-management-system&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
+	</a>
+	&nbsp;
+	<a href="https://github.com/Ramyprojs/C-Maze-Generation-and-Solving-Algorithm">
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=C-Maze-Generation-and-Solving-Algorithm&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/Ramyprojs/resume-reviewer-app">
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=resume-reviewer-app&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
+	</a>
+	&nbsp;
+	<a href="https://github.com/Ramyprojs/oaqjp-final-project-emb-ai">
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=oaqjp-final-project-emb-ai&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/Ramyprojs/PIC16F877A-PONG-Console">
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=PIC16F877A-PONG-Console&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
+	</a>
+	&nbsp;
+	<a href="https://github.com/Ramyprojs/Folium">
+		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=Folium&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
+	</a>
+</p>
+
+---
+
+<br/>
+
+## 💡 &nbsp; Skills At a Glance
+
+```
+C++              ████████████████████  Expert
+TypeScript       ████████████████░░░░  Advanced
+Python           ████████████░░░░░░░░  Proficient
+JavaScript       ████████████░░░░░░░░  Proficient
+Algorithms & DS  ████████████████░░░░  Advanced
+Embedded C       ████████░░░░░░░░░░░░  Intermediate
+Flask / Backend  ████████████░░░░░░░░  Proficient
+Git & DevOps     ████████████████░░░░  Advanced
+```
+
+---
+
+<br/>
+
+## 🏆 &nbsp; GitHub Trophies
+
+<p align="center">
+	<img width="90%"
+		src="https://github-profile-trophy.vercel.app/?username=Ramyprojs&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang&v=1"
+	/>
+</p>
+
+---
+
+<br/>
+
+## 🐍 &nbsp; Contribution Snake
+
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)"
+			srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake-dark.svg?v=1"
+		/>
+		<source media="(prefers-color-scheme: light)"
+			srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake.svg?v=1"
+		/>
+		<img alt="github contribution grid snake animation"
+			src="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake.svg?v=1"
+		/>
+	</picture>
+</p>
+
+---
+
+<br/>
+
+<p align="center">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="80%"/>
+</p>
+
+---
+
+<br/>
+
+## 🤝 &nbsp; Let's Connect
+
+<p align="center">
+	<a href="https://ramyprojs.github.io">
+		<img src="https://img.shields.io/badge/Portfolio-Visit_Site-E50000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" />
+	</a>
+	&nbsp;
+	<a href="https://www.linkedin.com/in/ramy-abdelmalak-aa2507177/">
+		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
+	</a>
+	&nbsp;
+	<a href="mailto:ramy.emad2000@gmail.com">
+		<img src="https://img.shields.io/badge/Email-Say_Hello-E50000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
+	</a>
+</p>
+
+<br/>
+
+---
+
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+	<sub>
+		Built by <a href="https://github.com/Ramyprojs"><b>Ramy Abdelmalak</b></a> - Cairo, Egypt · 2026
+	</sub>
+</p>
