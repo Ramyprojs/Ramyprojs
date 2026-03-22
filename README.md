@@ -161,7 +161,7 @@
 
 <p align="center">
 	<img width="70%"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=Ramyprojs&theme=dark&background=0a0a0a&ring=E50000&fire=FF4444&currStreakLabel=E50000&sideLabels=ffffff&dates=999999&border=E50000&border_radius=10"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=Ramyprojs&theme=dark&background=0a0a0a&ring=E50000&fire=FF4444&currStreakLabel=E50000&sideLabels=ffffff&dates=999999&border=E50000&border_radius=10&cache_seconds=0"
 	/>
 </p>
 
@@ -169,7 +169,7 @@
 
 <br/>
 
-## 📈 &nbsp; Contribution Activity
+## � &nbsp; Contribution Snake
 
 <p align="center">
 	<img width="95%"
@@ -238,29 +238,11 @@ Git & DevOps     ████████████████░░░░  A
 
 <p align="center">
 	<img width="90%"
-		src="https://github-profile-trophy.vercel.app/?username=Ramyprojs&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang&v=1"
+		src="https://github-profile-trophy.vercel.app/?username=Ramyprojs&theme=flat&column=7&margin-w=5"
 	/>
 </p>
 
----
 
-<br/>
-
-## 🐍 &nbsp; Contribution Snake
-
-<p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)"
-			srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake-dark.svg?v=1"
-		/>
-		<source media="(prefers-color-scheme: light)"
-			srcset="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake.svg?v=1"
-		/>
-		<img alt="github contribution grid snake animation"
-			src="https://raw.githubusercontent.com/Ramyprojs/Ramyprojs/output/github-contribution-grid-snake.svg?v=1"
-		/>
-	</picture>
-</p>
 
 ---
 
