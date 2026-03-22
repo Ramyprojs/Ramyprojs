@@ -238,7 +238,7 @@ Git & DevOps     ████████████████░░░░  A
 
 <p align="center">
 	<img width="90%"
-		src="https://github-profile-trophy.vercel.app/?username=Ramyprojs&theme=flat&column=7&margin-w=5"
+		src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ramyprojs&theme=onedark&column=7"
 	/>
 </p>
 
