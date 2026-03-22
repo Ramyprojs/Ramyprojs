@@ -1,23 +1,35 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: Ramyprojs
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          fqdn: false
+          commit_message: "chore: update snake contribution animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
