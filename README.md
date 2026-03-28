@@ -183,35 +183,50 @@
 
 ## 🗂️ &nbsp; Featured Projects
 
-<p align="center">
-	<a href="https://github.com/Ramyprojs/hospital-management-system">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=hospital-management-system&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
-	</a>
-	&nbsp;
-	<a href="https://github.com/Ramyprojs/C-Maze-Generation-and-Solving-Algorithm">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=C-Maze-Generation-and-Solving-Algorithm&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://github.com/Ramyprojs/resume-reviewer-app">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=resume-reviewer-app&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
-	</a>
-	&nbsp;
-	<a href="https://github.com/Ramyprojs/oaqjp-final-project-emb-ai">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=oaqjp-final-project-emb-ai&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://github.com/Ramyprojs/PIC16F877A-PONG-Console">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=PIC16F877A-PONG-Console&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
-	</a>
-	&nbsp;
-	<a href="https://github.com/Ramyprojs/Folium">
-		<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramyprojs&repo=Folium&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&icon_color=E50000&border_color=E50000&border_radius=10&theme=dark&cache_seconds=3600"/>
-	</a>
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+	<strong><a href="https://github.com/Ramyprojs/resume-reviewer-app">Resume Reviewer App</a></strong><br/>
+	Upload a resume and get AI-powered ATS scores, feedback, and rewrite suggestions.<br/>
+	<sub>Next.js • TypeScript • Gemini</sub><br/>
+	<a href="https://resume-reviewer-app-kohl.vercel.app">Live demo</a> • <a href="https://github.com/Ramyprojs/resume-reviewer-app">Repository</a>
+</td>
+<td width="50%" valign="top">
+	<strong><a href="https://github.com/Ramyprojs/lessonlens">LessonLens</a></strong><br/>
+	AI screen tutor that watches a shared screen, sends snapshots to Workers AI, and teaches through a focused two-panel interface.<br/>
+	<sub>Node.js • Cloudflare Workers AI • HTML</sub><br/>
+	<a href="https://lessonlens.vercel.app">Live demo</a> • <a href="https://github.com/Ramyprojs/lessonlens">Repository</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+	<strong><a href="https://github.com/Ramyprojs/wayback-museum">Wayback Museum</a></strong><br/>
+	A digital museum preserving the legendary websites, communities, and portals that built the early internet.<br/>
+	<sub>JavaScript • Web Experience • Storytelling</sub><br/>
+	<a href="https://wayback-museum.vercel.app">Live demo</a> • <a href="https://github.com/Ramyprojs/wayback-museum">Repository</a>
+</td>
+<td width="50%" valign="top">
+	<strong><a href="https://github.com/Ramyprojs/Folium">Folium</a></strong><br/>
+	A modern, Notion-inspired workspace for organized thinking and clean note-taking flows.<br/>
+	<sub>TypeScript • Product UI • Productivity</sub><br/>
+	<a href="https://folium-delta.vercel.app">Live demo</a> • <a href="https://github.com/Ramyprojs/Folium">Repository</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+	<strong><a href="https://github.com/Ramyprojs/hospital-management-system">Hospital Management System</a></strong><br/>
+	Console-based hospital workflow manager in C++ with patient records, appointments, and emergency queues.<br/>
+	<sub>C++ • STL • OOP</sub><br/>
+	<a href="https://github.com/Ramyprojs/hospital-management-system">Repository</a>
+</td>
+<td width="50%" valign="top">
+	<strong><a href="https://github.com/Ramyprojs/C-Maze-Generation-and-Solving-Algorithm">C Maze Generation and Solving</a></strong><br/>
+	C++ maze generation using recursive and iterative DFS, plus a built-in solver for perfect mazes.<br/>
+	<sub>C++ • Algorithms • DFS</sub><br/>
+	<a href="https://github.com/Ramyprojs/C-Maze-Generation-and-Solving-Algorithm">Repository</a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -237,9 +252,15 @@ Git & DevOps     ████████████████░░░░  A
 ## 🏆 &nbsp; GitHub Trophies
 
 <p align="center">
-	<img width="90%"
-		src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ramyprojs&theme=onedark&column=7"
-	/>
+	<a href="https://github.com/Ramyprojs?tab=achievements">
+		<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="96" alt="Pull Shark GitHub achievement"/>
+	</a>
+</p>
+
+<p align="center">
+	<strong>Pull Shark</strong><br/>
+	GitHub achievement for merged pull requests.<br/>
+	<a href="https://github.com/Ramyprojs?tab=achievements">View achievements on GitHub</a>
 </p>
 
 
