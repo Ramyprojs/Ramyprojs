@@ -34,33 +34,30 @@
 
 ---
 
-<br/>
+## 👋 About Me
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-## 👾 &nbsp; About Me
+Software engineer focused on building reliable software across C++, TypeScript, backend systems, and AI-integrated products.
 
-```
-> Software engineer. Cairo, Egypt.
-> C++ and TypeScript are my daily tools.
-> I build things that hold up.
-```
-
-- 🔭 &nbsp; Working on **full-stack and AI-integrated projects**
-- 🌱 &nbsp; Deepening: **system design, TypeScript, algorithms**
-- ⚡ &nbsp; Background in **embedded systems** - sharpens how I think
-- 🎯 &nbsp; Goal: **write code that is fast, clean, and honest**
-- 💬 &nbsp; Ask me about: **C++, TypeScript, Flask, data structures**
-- 📫 &nbsp; Reach me: **ramy.emad2000@gmail.com**
-- 📱 &nbsp; Phone: **+201207223803**
-- 🌐 &nbsp; Portfolio: **[ramyprojs.github.io](https://ramyprojs.github.io)**
+- Building full-stack and AI-enabled products
+- Strong in C++, TypeScript, algorithms, and backend design
+- Background in embedded systems and low-level problem solving
+- Care about code that is fast, clean, and honest
+- Open to software engineering opportunities
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="40%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
+```text
+Location   Cairo, Egypt
+Email      ramy.emad2000@gmail.com
+Phone      +20 120 722 3803
+Portfolio  ramyprojs.github.io
+Focus      Systems + product engineering
+```
 
 </td>
 </tr>
@@ -68,11 +65,7 @@
 
 ---
 
-<br/>
-
-## 🛠️ &nbsp; Tech Stack
-
----
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -85,8 +78,6 @@
 	<img src="https://img.shields.io/badge/SQL-Data-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0a0a"/>
 </p>
 
----
-
 **Web & Backend**
 
 <p>
@@ -98,8 +89,6 @@
 	<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0a0a"/>
 </p>
 
----
-
 **Embedded & Systems**
 
 <p>
@@ -109,8 +98,6 @@
 	<img src="https://img.shields.io/badge/Embedded_C-Systems-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=0a0a0a"/>
 </p>
 
----
-
 **AI & Data**
 
 <p>
@@ -118,8 +105,6 @@
 	<img src="https://img.shields.io/badge/NLP-Natural_Language-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a"/>
 	<img src="https://img.shields.io/badge/LLM_Integration-AI_Apps-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a"/>
 </p>
-
----
 
 **Tools & DevOps**
 
@@ -132,8 +117,6 @@
 	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"/>
 </p>
 
----
-
 **CS Fundamentals**
 
 <p>
@@ -145,31 +128,37 @@
 
 ---
 
-<br/>
+## 📌 Professional Snapshot
 
-## 📊 &nbsp; GitHub Stats
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-	<img height="180em"
-		src="https://github-readme-stats.vercel.app/api?username=Ramyprojs&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=E50000&icon_color=E50000&text_color=ffffff&border_color=E50000&border_radius=10&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=3600"
-	/>
-	&nbsp;&nbsp;
-	<img height="180em"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramyprojs&layout=compact&theme=dark&bg_color=0a0a0a&title_color=E50000&text_color=ffffff&border_color=E50000&border_radius=10&langs_count=8&hide_border=false&cache_seconds=3600"
-	/>
-</p>
+### What I Build
 
-<p align="center">
-	<img width="70%"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=Ramyprojs&theme=dark&background=0a0a0a&ring=E50000&fire=FF4444&currStreakLabel=E50000&sideLabels=ffffff&dates=999999&border=E50000&border_radius=10&cache_seconds=0"
-	/>
-</p>
+- Full-stack web applications
+- AI-assisted product experiences
+- C++ systems and algorithms projects
+- Backend APIs with clean architecture
+
+</td>
+<td width="50%" valign="top">
+
+### Current Profile
+
+- 16+ public repositories
+- Pull Shark GitHub achievement
+- Main working languages: C++, TypeScript, JavaScript, and Go
+- Portfolio: [ramyprojs.github.io](https://ramyprojs.github.io)
+- GitHub: [@Ramyprojs](https://github.com/Ramyprojs)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<br/>
-
-## � &nbsp; Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
 	<img width="95%"
@@ -179,62 +168,77 @@
 
 ---
 
-<br/>
+## 🗂️ Featured Projects
 
-## 🗂️ &nbsp; Featured Projects
+<!--
+FEATURED PROJECTS GUIDE
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-	<strong><a href="https://github.com/Ramyprojs/resume-reviewer-app">Resume Reviewer App</a></strong><br/>
-	Upload a resume and get AI-powered ATS scores, feedback, and rewrite suggestions.<br/>
-	<sub>Next.js • TypeScript • Gemini</sub><br/>
-	<a href="https://resume-reviewer-app-kohl.vercel.app">Live demo</a> • <a href="https://github.com/Ramyprojs/resume-reviewer-app">Repository</a>
-</td>
-<td width="50%" valign="top">
-	<strong><a href="https://github.com/Ramyprojs/lessonlens">LessonLens</a></strong><br/>
-	AI screen tutor that watches a shared screen, sends snapshots to Workers AI, and teaches through a focused two-panel interface.<br/>
-	<sub>Node.js • Cloudflare Workers AI • HTML</sub><br/>
-	<a href="https://lessonlens.vercel.app">Live demo</a> • <a href="https://github.com/Ramyprojs/lessonlens">Repository</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-	<strong><a href="https://github.com/Ramyprojs/wayback-museum">Wayback Museum</a></strong><br/>
-	A digital museum preserving the legendary websites, communities, and portals that built the early internet.<br/>
-	<sub>JavaScript • Web Experience • Storytelling</sub><br/>
-	<a href="https://wayback-museum.vercel.app">Live demo</a> • <a href="https://github.com/Ramyprojs/wayback-museum">Repository</a>
-</td>
-<td width="50%" valign="top">
-	<strong><a href="https://github.com/Ramyprojs/Folium">Folium</a></strong><br/>
-	A modern, Notion-inspired workspace for organized thinking and clean note-taking flows.<br/>
-	<sub>TypeScript • Product UI • Productivity</sub><br/>
-	<a href="https://folium-delta.vercel.app">Live demo</a> • <a href="https://github.com/Ramyprojs/Folium">Repository</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-	<strong><a href="https://github.com/Ramyprojs/hospital-management-system">Hospital Management System</a></strong><br/>
-	Console-based hospital workflow manager in C++ with patient records, appointments, and emergency queues.<br/>
-	<sub>C++ • STL • OOP</sub><br/>
-	<a href="https://github.com/Ramyprojs/hospital-management-system">Repository</a>
-</td>
-<td width="50%" valign="top">
-	<strong><a href="https://github.com/Ramyprojs/C-Maze-Generation-and-Solving-Algorithm">C Maze Generation and Solving</a></strong><br/>
-	C++ maze generation using recursive and iterative DFS, plus a built-in solver for perfect mazes.<br/>
-	<sub>C++ • Algorithms • DFS</sub><br/>
-	<a href="https://github.com/Ramyprojs/C-Maze-Generation-and-Solving-Algorithm">Repository</a>
-</td>
-</tr>
-</table>
+To edit this section quickly:
+1. Duplicate, remove, or reorder any block between FEATURED_PROJECTS_LIST_START and FEATURED_PROJECTS_LIST_END.
+2. Each project block has 4 parts: title, one-line description, stack tags, and links.
+3. Keep the same quote-style format for a clean layout.
+
+Project block template:
+
+> ### Project Name
+> One-line description.
+>
+> `Stack` `Stack` `Stack`
+>
+> [Live Demo](https://example.com) • [Repository](https://github.com/your-name/your-repo)
+-->
+
+<!-- FEATURED_PROJECTS_LIST_START -->
+
+> ### Resume Reviewer App
+> AI-powered ATS scoring, resume feedback, and rewrite suggestions built for a polished candidate workflow.
+>
+> `Next.js` `TypeScript` `Gemini`
+>
+> [Live Demo](https://resume-reviewer-app-kohl.vercel.app) • [Repository](https://github.com/Ramyprojs/resume-reviewer-app)
+
+> ### LessonLens
+> AI screen tutor that watches a shared screen, sends snapshots to Workers AI, and teaches through a focused two-panel interface.
+>
+> `Node.js` `Cloudflare Workers AI` `HTML`
+>
+> [Live Demo](https://lessonlens.vercel.app) • [Repository](https://github.com/Ramyprojs/lessonlens)
+
+> ### Wayback Museum
+> A digital museum preserving the legendary websites, communities, and portals that built the early internet.
+>
+> `JavaScript` `Web Experience` `Storytelling`
+>
+> [Live Demo](https://wayback-museum.vercel.app) • [Repository](https://github.com/Ramyprojs/wayback-museum)
+
+> ### Folium
+> A modern, Notion-inspired workspace for organized thinking and clean note-taking flows.
+>
+> `TypeScript` `Product UI` `Productivity`
+>
+> [Live Demo](https://folium-delta.vercel.app) • [Repository](https://github.com/Ramyprojs/Folium)
+
+> ### Hospital Management System
+> Console-based hospital workflow manager in C++ with patient records, appointments, and emergency queues.
+>
+> `C++` `STL` `OOP`
+>
+> [Repository](https://github.com/Ramyprojs/hospital-management-system)
+
+> ### C Maze Generation and Solving
+> C++ maze generation using recursive and iterative DFS, plus a built-in solver for perfect mazes.
+>
+> `C++` `Algorithms` `DFS`
+>
+> [Repository](https://github.com/Ramyprojs/C-Maze-Generation-and-Solving-Algorithm)
+
+<!-- FEATURED_PROJECTS_LIST_END -->
 
 ---
 
-<br/>
+## 💡 Skills At a Glance
 
-## 💡 &nbsp; Skills At a Glance
-
-```
+```text
 C++              ████████████████████  Expert
 TypeScript       ████████████████░░░░  Advanced
 Python           ████████████░░░░░░░░  Proficient
@@ -247,9 +251,7 @@ Git & DevOps     ████████████████░░░░  A
 
 ---
 
-<br/>
-
-## 🏆 &nbsp; GitHub Trophies
+## 🏆 GitHub Achievement
 
 <p align="center">
 	<a href="https://github.com/Ramyprojs?tab=achievements">
@@ -259,25 +261,19 @@ Git & DevOps     ████████████████░░░░  A
 
 <p align="center">
 	<strong>Pull Shark</strong><br/>
-	GitHub achievement for merged pull requests.<br/>
+	<sub>GitHub achievement earned for merged pull requests.</sub><br/>
 	<a href="https://github.com/Ramyprojs?tab=achievements">View achievements on GitHub</a>
 </p>
 
+---
 
+> "First, solve the problem. Then, write the code."
+>
+> John Johnson
 
 ---
 
-<br/>
-
-<p align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="80%"/>
-</p>
-
----
-
-<br/>
-
-## 🤝 &nbsp; Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
 	<a href="https://ramyprojs.github.io">
@@ -292,8 +288,6 @@ Git & DevOps     ████████████████░░░░  A
 		<img src="https://img.shields.io/badge/Email-Say_Hello-E50000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
 	</a>
 </p>
-
-<br/>
 
 ---
 
